@@ -1,12 +1,17 @@
-## Welcome to GitHub Pages
+## Welcome to Group 5 EA project
 
-You can use the [editor on GitHub](https://github.com/3d-food-printer-project/3d-food/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This project is for EA CA3 project
+The purpose of the project is to reduce food wastage by using the ugly fruits people dont buy into a 3D printer filament.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
+The team members are Allen,Cheng Ee and Vincent.
+Allen is from Mechancial engineering in Singapore Polytechnic
+Cheng Ee is from Computer engineering in Singapore Polytechnic
+Vincent is from engineering with buisness in Singapore Polytechnic
+
 
 ```markdown
 Syntax highlighted code block
@@ -20,18 +25,12 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=[https://www.your_website/file_name.pptx]' width='100%' height='600px' frameborder='0'>
 
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For Demo [Demo video](https://www.youtube.com/watch?v=LZb7Yt95vFc&feature=youtu.be).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/3d-food-printer-project/3d-food/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
