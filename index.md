@@ -11,7 +11,8 @@ The team members are Allen,Cheng Ee and Vincent.
 Allen Tan is from Mechancial engineering in Singapore Polytechnic
 Cheng Ee is from Computer engineering in Singapore Polytechnic
 Vincent Ho is from engineering with buisness in Singapore Polytechnic
- <embed src="https://3d-food.github.io/EED CA3 Report.pdf" width="600px" height="500px" />
+
+[report](embed src="https://3d-food.github.io/EEDCA3Report.pdf" width="600px" height="500px" /)
 
 
 
