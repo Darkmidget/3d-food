@@ -13,7 +13,7 @@ Cheng Ee is from Computer engineering in Singapore Polytechnic
 Vincent Ho is from engineering with buisness in Singapore Polytechnic
 
 
-Report [report]("https://docs.google.com/gview?url=https://github.com/3d-food-printer-project/3d-food/blob/master/EED%20CA3%20Report.pdf)
+[Report]("https://docs.google.com/gview?url=https://github.com/3d-food-printer-project/3d-food/blob/master/EED%20CA3%20Report.pdf).
 
 
 For Demo [Demo video](https://www.youtube.com/watch?v=LZb7Yt95vFc&feature=youtu.be).
