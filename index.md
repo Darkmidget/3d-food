@@ -1,20 +1,19 @@
 ## Welcome to Group 5 EA project
-<a>
+
 This project is for EA CA3 project
 The purpose of the project is to reduce food wastage by using the ugly fruits people dont buy into a 3D printer filament.
-<a>
 
 
 
-<a>
+
+
 The team members are Allen,Cheng Ee and Vincent.
 Allen Tan is from Mechancial engineering in Singapore Polytechnic
 Cheng Ee is from Computer engineering in Singapore Polytechnic
 Vincent Ho is from engineering with buisness in Singapore Polytechnic
 
-<a?
-<iframe src="https://docs.google.com/gview?url=https://github.com/3d-food-printer-project/3d-food/blob/master/EED%20CA3%20Report.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
-</html>
+
+Report [report]("https://docs.google.com/gview?url=https://github.com/3d-food-printer-project/3d-food/blob/master/EED%20CA3%20Report.pdf)
 
 
 For Demo [Demo video](https://www.youtube.com/watch?v=LZb7Yt95vFc&feature=youtu.be).
