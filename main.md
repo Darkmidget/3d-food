@@ -8,13 +8,13 @@ The purpose of the project is to reduce food wastage by using the ugly fruits pe
 
 
 
-The team members are Allen,Cheng Ee and Vincent.
+The team members are Allen ,Cheng Ee and Vincent.
 
-Allen Tan is from Mechancial engineering in Singapore Polytechnic.
+Allen Tan is from Mechanical engineering in Singapore Polytechnic.
 
 Cheng Ee is from Computer engineering in Singapore Polytechnic.
 
-Vincent Ho is from engineering with buisness in Singapore Polytechnic.
+Vincent Ho is from engineering with business in Singapore Polytechnic.
 
 
 Report on project [Report](https://docs.google.com/document/d/10KHBOF9dW7OdI3IlpWIfBp-FFAvoKOMjtG-LaSaJ_t4/edit?usp=sharing).
